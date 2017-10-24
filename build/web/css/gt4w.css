@@ -1,0 +1,15 @@
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #eee;
+  margin-top: -50px;
+}
+.gt4w {
+  max-width: 800px;
+  padding: 15px;
+  margin: 0 auto;
+}
+.gt4w .form-control:focus {
+  z-index: 2;
+}
+
